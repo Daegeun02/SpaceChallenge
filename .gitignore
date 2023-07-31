@@ -1,0 +1,6 @@
+.bash_history
+.cache/*
+.dotnet/*
+.gnupg/*
+.vscode-server/*
+.gitconfig
