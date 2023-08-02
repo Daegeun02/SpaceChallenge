@@ -6,10 +6,8 @@ from numpy.linalg import matrix_power
 
 
 
-def dynamic():
+def dynamic( T, dt ):
 
-    T  = 35
-    dt = 0.35
     n  = int( T / dt )
 
     A = array([

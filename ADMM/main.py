@@ -24,12 +24,15 @@ update_r_GPU0 = r_kernel0()
 
 t1 = time()
 
-A, B, g, n = dynamic()
+A, B, g, n = dynamic( T=10, dt=0.1 )
 
-x0 = array( [50, 100, -1500, -10, 20, 50] )
+# x0 = array( [50, 100, -1500, -10, 20, 50] )
+x0 = array( [2.0, 2.0, 2.0, 0.0, 0.0, 0.0] )
 
-u_min = float32(  5.0 )
-u_max = float32( 13.0 )
+# u_min = float32(  5.0 )
+# u_max = float32( 13.0 )
+u_min = float32( 9.5 )
+u_max = float32( 9.9 )
 rho   = float32(  1.0 )
 theta = 20.0
 
