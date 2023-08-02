@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: Pygeun
+Version: 0.0.4
+Summary: Pygeun is for convenience
+Home-page: https://github.com/Daegeun02/Pygeun.git
+Author: Daegeun02
+Author-email: redhawkdg02@gmail.com
+License: UNKNOWN
+Keywords: Pygeun,by daegeun,for convenience
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.7
+
+UNKNOWN
+
