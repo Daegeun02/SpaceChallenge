@@ -4,3 +4,4 @@
 .gnupg/*
 .vscode-server/*
 .gitconfig
+.local/*
